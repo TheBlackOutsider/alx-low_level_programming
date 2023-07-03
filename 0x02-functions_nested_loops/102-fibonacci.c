@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-  * _fibonacci0 - To print the first 50 fibonacci numbers.
+  * main - To print the first 50 fibonacci numbers.
   * Return: 0
   */
-int _fibonacci0()
+int main(void)
 {
 	unsigned long nbr, i, j, k;
 
