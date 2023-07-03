@@ -19,7 +19,7 @@ void print_times_table(int n)
 		_putchar('0');
 		for (v = 1 ; v < n + 1 ; v++)
 		{
-			int sum = v * h;
+			_putchar(v * h);
 
 			_putchar(',');
 		}

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
-  * main - To sum a even valued terms when fibonacci sequence not exceed 4 million.
+  * main - To sum a even valued terms when fibonacci 
+  * sequence not exceed 4 million.
   * Return: 0
   */
 int main(void)
