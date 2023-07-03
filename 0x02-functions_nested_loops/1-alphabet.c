@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet - To print the alphabet, in lowercase
- * Return:(nothing) void 
+ * Return:(nothing) void
  */
 void print_alphabet(void)
 {
