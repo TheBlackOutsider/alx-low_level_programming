@@ -2,7 +2,7 @@
 
 /**
  * main - To print all combinations of three digits with,
- * and space followed by new line 
+ * and space followed by new line
  * Return: 0
  */
 int main(void)
