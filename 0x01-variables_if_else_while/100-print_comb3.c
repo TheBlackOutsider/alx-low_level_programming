@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - To print all combinations of two digits with, and space followed by new line
+ * main - To print all combinations of two digits with, 
+ * and space followed by new line
  *
  * Return: 0
-*/
+ */
 int main(void)
 {
 	int d1, d2;
