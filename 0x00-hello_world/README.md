@@ -3,3 +3,4 @@
 2-assembler : a script that generates the assembly code of a C code and save it in an output file
 3-name :  a script that compiles a C file and creates an executable named cisfun
 4-puts.c : a C program that prjints exactly some text and end with an value 0
+5-printf.c : a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
