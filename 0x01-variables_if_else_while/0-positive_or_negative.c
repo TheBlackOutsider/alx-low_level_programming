@@ -4,7 +4,7 @@
 
 /**
  * main - Determine considering the input which sign its have
- * 
+ *
  * Return: 0
  */
 int main(void)
