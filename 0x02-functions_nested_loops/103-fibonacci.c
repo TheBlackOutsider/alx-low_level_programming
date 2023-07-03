@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-  * _fibonacci1 - To sum a even valued terms when fibonacci sequence not exceed 4 million.
+  * main - To sum a even valued terms when fibonacci sequence not exceed 4 million.
   * Return: 0
   */
-int _fibonacci1()
+int main(void)
 {
 	unsigned long count, i, j, k, total;
 

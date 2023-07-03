@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-  * _fibonacci2 - To print the first 98 fibonacci numbers.
+  * main - To print the first 98 fibonacci numbers.
   * Return: 0
   */
-int _fibonacci2()
+int main(void)
 {
 	int count;
 	unsigned long i, j, k;
