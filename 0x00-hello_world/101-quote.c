@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 
 /**
  * main - main entry for the programm
@@ -7,8 +6,8 @@
  */
 int main(void)
 {
-char* message = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-fwrite(message, sizeof(char), strlen(message), stderr);
+fprintf(stderr, "and that piece of art is useful\"");
+fprintf(stderr, " - Dora Korpar, 2015-10-19\n");
 return (1);
 }
 
