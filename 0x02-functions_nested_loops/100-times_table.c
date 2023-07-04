@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print out the digit in the thousand range
+ * print_thousand - print out the digit in the thousand range
  * @sum: Value to scan for thousand range
  *
  * Return: Void
@@ -20,7 +20,7 @@ static void print_thousand(int sum)
 
 
 /**
- * print out the digit in the hundred range
+ * print_hundred - print out the digit in the hundred range
  * @sum: Value to scan for hundred range
  *
  * Return: Void
@@ -39,7 +39,7 @@ static void print_hundred(int sum)
 
 
 /**
- * print out the digit in the tenth range
+ * print_tenth - prints out the digit in the tenth range
  * @sum: Value to scan for tenth range
  *
  * Return: Void
@@ -65,7 +65,7 @@ static void print_tenth(int sum)
 
 
 /**
- * print out the digit in the base10 range
+ * print_base10 - prints out the digit in the base10 range
  * @sum: Value to scan for base10 range
  *
  * Return: Void
