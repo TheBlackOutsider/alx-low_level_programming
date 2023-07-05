@@ -3,7 +3,7 @@
 /**
  * _strcmp - a function that compares two strings
  * @s1: char parameter 1
- * @s2: char parameter 2 
+ * @s2: char parameter 2
  * Return: Always 0 (Success)
  */
 int _strcmp(char *s1, char *s2)
